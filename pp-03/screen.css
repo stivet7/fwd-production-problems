@@ -28,18 +28,30 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* ==== LAYOUT STYLES ==== */
 #content {
+<<<<<<< HEAD
   display: flex;
   flex-direction: row-reverse;
+=======
+
+>>>>>>> upstream/master
 }
 
 #three,
 #two,
 #one {
+<<<<<<< HEAD
 height: 30vw;
 width: 50vw;
 }
 
 @media screen and (min-width: 600px) {
+=======
+
+}
+
+@media screen and (min-width: 600px) {
+
+>>>>>>> upstream/master
 }
 
 @media screen and (min-width: 800px) {
