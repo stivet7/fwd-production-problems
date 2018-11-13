@@ -7,4 +7,6 @@ document.addEventListener('keydown', function(e) {
   if (e.keyCode == 68) {
     document.getElementById('controls').play();
   }
+}
+
 });
