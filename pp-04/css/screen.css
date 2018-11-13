@@ -18,10 +18,6 @@ body {
   padding: 10%;
 }
 
-/* ===== LAYOUT STYLES ===== */
-
-
-/* ===== MODULAR STYLES ===== */
-
-
-/* ===== STATE STYLES ===== */
+audio {
+  cursor: pointer;
+}
