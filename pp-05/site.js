@@ -46,6 +46,9 @@ console.log(i) // should be 'undefined', not 3
 //  variable x declared on line 5 above. Write your explanation
 //  as JavaScript comments.
 
+//The variable x is used as a global variable
+//This means that it is only modified within its assigned function
+
 function addTwo(x) {
   x = x + 2;
   return x;
